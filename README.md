@@ -7,7 +7,7 @@
 ![aws2](AWSAula/Tela2.png)
 ![aws3](AWSAula/Tela3.png)
 
-
+- criando instância ec2
 ![aws4](AWSAula/Tela4.png)
 ![aws5](AWSAula/Tela5.png)
 ![aws6](AWSAula/Tela6.png)
