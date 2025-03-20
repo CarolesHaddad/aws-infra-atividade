@@ -1,8 +1,9 @@
 # aws-infra-atividade
 
+- criando par de chaves para acesso ssh
 ![aws1](AWSAula/Tela1.png)
 
-
+- criando grupo de segurança
 ![aws2](AWSAula/Tela2.png)
 ![aws3](AWSAula/Tela3.png)
 
