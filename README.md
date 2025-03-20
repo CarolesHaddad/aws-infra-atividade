@@ -15,10 +15,8 @@
 ![aws8](AWSAula/Tela8.png)
 ![aws9](AWSAula/Tela9.png)
 
-
+- criando bd postgres e grupo de segurança
 ![aws10](AWSAula/Tela10.png)
 ![aws11](AWSAula/Tela11.png)
-
-
 ![aws12](AWSAula/Tela12.png)
 ![aws13](AWSAula/Tela13.png)
